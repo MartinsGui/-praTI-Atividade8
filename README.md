@@ -43,11 +43,11 @@ Este repositório contém a implementação de uma série de funcionalidades em 
    - O programa apresenta um menu interativo no console para selecionar a funcionalidade desejada.
    - Siga as instruções exibidas no terminal.
 
-## Exemplos de Uso 📝
 
-### 1. Operação Matemática:
-```plaintext
-Digite o primeiro número: 5
-Digite o segundo número: 3
-Digite o operador (+, -, *, /): +
-Resultado: 8.0
+## Estrutua do projeto 🗂️
+src/
+├── Main.java         # Classe principal contendo todas as implementações.
+
+
+
+
